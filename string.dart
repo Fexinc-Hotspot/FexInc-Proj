@@ -1,4 +1,12 @@
-String cohort = "cohort4";
+//These are sequences of characters made of alphabets.
+//The alphabets combined make words and sentences.
+//Strings are annotated inside quotation marks.
+
+//Example
 main() {
-  print(cohort);
+  String name = 'smith'; //this is string datatype
+
+  print('....................');
+  print("His name is: " + name);
+  print('....................');
 }

@@ -1,3 +1,7 @@
+//A list is an organized collection of items.
+//In several programming languages,
+//the idea of an array is equivalent to Dart's List data type.
+
 void main(List<String> args) {
   const names = ['Python', 'Dart', 'Web', 'DataBase'];
 
